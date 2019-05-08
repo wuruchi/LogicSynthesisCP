@@ -1,0 +1,166 @@
+instances/nlsp_2_0.inp	0 0 
+instances/nlsp_2_1.inp	1 1 
+instances/nlsp_2_10.inp	0 0 
+instances/nlsp_2_11.inp	3 3 
+instances/nlsp_2_12.inp	0 0 
+instances/nlsp_2_13.inp	3 3 
+instances/nlsp_2_14.inp	2 2 
+instances/nlsp_2_15.inp	1 1 
+instances/nlsp_2_2.inp	2 2 
+instances/nlsp_2_3.inp	1 1 
+instances/nlsp_2_4.inp	2 2 
+instances/nlsp_2_5.inp	1 1 
+instances/nlsp_2_6.inp	3 5 
+instances/nlsp_2_7.inp	3 4 
+instances/nlsp_2_8.inp	2 3 
+instances/nlsp_3_0.inp	0 0 
+instances/nlsp_3_1.inp	3 3 
+instances/nlsp_3_10.inp	2 2 
+instances/nlsp_3_100.inp	4 10 #NOT OPTIMAL
+instances/nlsp_3_102.inp		3 5 
+instances/nlsp_3_103.inp		4 8 
+instances/nlsp_3_11.inp		3 3 
+instances/nlsp_3_112.inp		3 5 
+instances/nlsp_3_113.inp		3 6 
+instances/nlsp_3_114.inp		3 5 
+instances/nlsp_3_115.inp		3 6 
+instances/nlsp_3_116.inp		3 5 
+instances/nlsp_3_117.inp		3 6 
+instances/nlsp_3_118.inp		4 9  # NOT OPTIMAL
+instances/nlsp_3_119.inp		3 4 
+instances/nlsp_3_12.inp		2 2 
+instances/nlsp_3_13.inp		3 3 
+instances/nlsp_3_136.inp		2 3 
+instances/nlsp_3_138.inp		4 10  # NOT OPTIMAL
+instances/nlsp_3_14.inp		2 2 
+instances/nlsp_3_140.inp		4 10  # NOT OPTIMAL
+instances/nlsp_3_142.inp		4 10  # NOT OPTIMAL
+instances/nlsp_3_15.inp		1 1 
+instances/nlsp_3_152.inp		4 10  # NOT OPTIMAL
+instances/nlsp_3_16.inp		3 5 # NOT OPTIMAL
+instances/nlsp_3_160.inp		2 3 
+instances/nlsp_3_162.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_164.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_168.inp		2 3 
+instances/nlsp_3_17.inp		1 1 
+instances/nlsp_3_170.inp		0 0 
+instances/nlsp_3_171.inp		3 3 
+instances/nlsp_3_172.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_174.inp		4 9 # NOT OPTIMAL
+instances/nlsp_3_175.inp		3 3 
+instances/nlsp_3_176.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_178.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_18.inp		3 5 
+instances/nlsp_3_184.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_186.inp		4 9 # NOT OPTIMAL
+instances/nlsp_3_187.inp		3 3 
+instances/nlsp_3_19.inp		3 4 
+instances/nlsp_3_192.inp		2 3 # NOT OPTIMAL
+instances/nlsp_3_194.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_196.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_2.inp		3 5 # NOT OPTIMAL
+instances/nlsp_3_20.inp		3 5 
+instances/nlsp_3_200.inp		2 3 
+instances/nlsp_3_202.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_204.inp		0 0 
+instances/nlsp_3_205.inp		3 3 
+instances/nlsp_3_206.inp		4 9 # NOT OPTIMAL
+instances/nlsp_3_207.inp		3 3 
+instances/nlsp_3_208.inp		4 10 
+instances/nlsp_3_21.inp		3 4 
+instances/nlsp_3_212.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_216.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_22.inp		4 9 
+instances/nlsp_3_220.inp		4 9 # NOT OPTIMAL
+instances/nlsp_3_221.inp		3 3 
+instances/nlsp_3_224.inp		2 3 
+instances/nlsp_3_226.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_228.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_23.inp		3 7 
+instances/nlsp_3_234.inp		2 3 
+instances/nlsp_3_236.inp		2 3 
+instances/nlsp_3_238.inp		2 2 
+instances/nlsp_3_239.inp		4 8 # NOT OPTIMAL
+instances/nlsp_3_24.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_240.inp		0 0 
+instances/nlsp_3_241.inp		3 3 
+instances/nlsp_3_242.inp		4 9 # NOT OPTIMAL
+instances/nlsp_3_243.inp		3 3 
+instances/nlsp_3_244.inp		4 9 # NOT OPTIMAL
+instances/nlsp_3_245.inp		3 3 
+instances/nlsp_3_248.inp		2 3 
+instances/nlsp_3_250.inp		2 2 
+instances/nlsp_3_251.inp		4 8 # NOT OPTIMAL
+instances/nlsp_3_252.inp		2 2 
+instances/nlsp_3_253.inp		4 8 # NOT OPTIMAL
+instances/nlsp_3_254.inp		4 9 # NOT OPTIMAL
+instances/nlsp_3_255.inp		1 1 
+instances/nlsp_3_26.inp		3 5 
+instances/nlsp_3_27.inp		3 6 
+instances/nlsp_3_28.inp		3 5 
+instances/nlsp_3_29.inp		3 6 
+instances/nlsp_3_3.inp		1 1 
+instances/nlsp_3_30.inp		4 9 # NOT OPTIMAL
+instances/nlsp_3_31.inp		3 4 
+instances/nlsp_3_32.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_34.inp		2 2 
+instances/nlsp_3_35.inp		3 3 
+instances/nlsp_3_36.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_38.inp		3 5 
+instances/nlsp_3_39.inp		3 6 
+instances/nlsp_3_4.inp		3 5 # NOT OPTIMAL
+instances/nlsp_3_40.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_42.inp		3 5 
+instances/nlsp_3_43.inp		3 6 
+instances/nlsp_3_44.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_46.inp		3 5 
+instances/nlsp_3_47.inp		3 6 
+instances/nlsp_3_48.inp		2 2 
+instances/nlsp_3_49.inp		3 3 
+instances/nlsp_3_5.inp		1 1 
+instances/nlsp_3_50.inp		2 2 
+instances/nlsp_3_51.inp		1 1 
+instances/nlsp_3_52.inp		3 5 
+instances/nlsp_3_53.inp		3 6 
+instances/nlsp_3_54.inp		4 9 # NOT OPTIMAL
+instances/nlsp_3_55.inp		3 4 
+instances/nlsp_3_56.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_58.inp		3 5 
+instances/nlsp_3_59.inp		3 6 
+instances/nlsp_3_6.inp		3 5 
+instances/nlsp_3_60.inp		3 5 
+instances/nlsp_3_61.inp		4 8 
+instances/nlsp_3_62.inp		4 9 # NOT OPTIMAL
+instances/nlsp_3_63.inp		3 4 
+instances/nlsp_3_64.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_66.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_68.inp		2 2 
+instances/nlsp_3_69.inp		3 3 
+instances/nlsp_3_7.inp		3 4 
+instances/nlsp_3_70.inp		3 5 
+instances/nlsp_3_71.inp		3 6 
+instances/nlsp_3_72.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_74.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_76.inp		3 5 
+instances/nlsp_3_77.inp		3 6 
+instances/nlsp_3_78.inp		3 5 
+instances/nlsp_3_79.inp		3 6 
+instances/nlsp_3_8.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_80.inp		2 2 
+instances/nlsp_3_81.inp		3 3 
+instances/nlsp_3_82.inp		3 5 
+instances/nlsp_3_83.inp		3 6 
+instances/nlsp_3_84.inp		2 2 
+instances/nlsp_3_85.inp		1 1 
+instances/nlsp_3_86.inp		4 9 # NOT OPTIMAL
+instances/nlsp_3_87.inp		3 4 
+instances/nlsp_3_88.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_90.inp		3 5 
+instances/nlsp_3_91.inp		4 8 
+instances/nlsp_3_92.inp		3 5 
+instances/nlsp_3_93.inp		3 6 
+instances/nlsp_3_94.inp		4 9 # NOT OPTIMAL
+instances/nlsp_3_95.inp		3 4 
+instances/nlsp_3_96.inp		4 10 # NOT OPTIMAL
+instances/nlsp_3_98.inp		4 10 # NOT OPTIMAL
+
